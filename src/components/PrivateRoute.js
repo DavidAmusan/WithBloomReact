@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import {Outlet, Navigate, Routes} from "react-router-dom"
+import React from 'react'
+import {Navigate, Routes} from "react-router-dom"
 import {useAuth} from "../context/AuthContext"
 
 
